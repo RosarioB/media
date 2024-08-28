@@ -1,18 +1,59 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "c247",
+      "userId": "1",
+      "title": "Intelligent Fresh Keyboard"
+    },
+    {
+      "id": "8988",
+      "userId": "1",
+      "title": "Gorgeous Granite Chair"
+    },
+    {
+      "id": "0453",
+      "userId": "1",
+      "title": "Ergonomic Rubber Fish"
+    },
+    {
+      "id": "407d",
+      "userId": "1",
+      "title": "Gorgeous Fresh Bike"
+    },
+    {
+      "id": "6a1b",
+      "userId": "1",
+      "title": "Ergonomic Fresh Shirt"
+    },
+    {
+      "id": "b996",
+      "userId": "1",
+      "title": "Licensed Cotton Pizza"
+    },
+    {
+      "id": "c83c",
+      "userId": "1",
+      "title": "Recycled Concrete Chair"
+    }
+  ],
   "photos": []
 }
