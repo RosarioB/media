@@ -1,3 +1,8 @@
+# Media App
+It is a `React` application that allows users to be created, with the ability to add albums to each user and photos to each album. This application uses `Redux` to manage state. The backend is powered by a JSON server, and the application makes use of `Async Thunks` to handle user-related requests and responses to and from the database. For handling requests and responses for albums and photos, the application makes use of `Redux Toolkit Query`.
+
+![alt text](https://github.com/RosarioB/media/blob/main/github_images/media.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,6 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm run start:server`
+Runs the JSON server database.
 
 ### `npm test`
 
@@ -68,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Acknowledgments
+This code is adapted from the course [Modern React with Redux](https://www.udemy.com/course/react-redux) by Stephen Grider, with some modifications.

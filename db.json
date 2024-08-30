@@ -34,5 +34,21 @@
       "title": "Gorgeous Fresh Bike"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "2391",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=91804"
+    },
+    {
+      "id": "3ef2",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=61683"
+    },
+    {
+      "id": "9b89",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=8942"
+    }
+  ]
 }
