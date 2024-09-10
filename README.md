@@ -1,7 +1,7 @@
 # Media App
 It is a `React` application that allows users to be created, with the ability to add albums to each user and photos to each album. This application uses `Redux` to manage state. The backend is powered by a JSON server, and the application makes use of `Async Thunks` to handle user-related requests and responses to and from the database. For handling requests and responses for albums and photos, the application makes use of `Redux Toolkit Query`.
 
-![alt text](https://github.com/RosarioB/media/blob/main/github_images/media.png?raw=true)
+![alt text](https://github.com/RosarioB/media/blob/main/github_images/media.?raw=true)
 
 # Getting Started with Create React App
 
